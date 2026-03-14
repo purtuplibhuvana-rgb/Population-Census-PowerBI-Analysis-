@@ -34,4 +34,4 @@ This project analyzes demographic patterns such as population distribution, gend
 Primary Population Census 2011 Dataset
 
 ## Author
-BP
+Bhuvana P
